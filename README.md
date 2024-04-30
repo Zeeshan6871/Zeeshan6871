@@ -7,10 +7,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zeeshan6871&theme=" alt="Zeeshan6871" /></a> </p>
 
-- 🌱 I’m currently learning **Nod.js, Express, MongoDB, React **
+- 🌱 I’m currently learning :- Nod.js, Express, MongoDB, React
 
 - 📫 How to reach me **zeeshanahmad@gmail.com**
-- 📄 Resume :-  **https://drive.google.com/file/d/1WTDkMOuAHcjJ8vLG5w966b_koPna9fqM/view**
+- 📄 Resume :-  <a href="https://drive.google.com/file/d/1WTDkMOuAHcjJ8vLG5w966b_koPna9fqM/view?usp=sharing">My Resume</a>
 
 <div> <a href="https://www.linkedin.com/in/http://www.linkedin.com/in/zeeshan-ahmad6393" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Zeeshan6871" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -34,14 +34,13 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
 </div>
 
-<h3 align="center">Stars</h3>
+<h3 align="center">Stats</h3>
 <p align="center">&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Zeeshan6871&show_icons=true&locale=en&theme=dark" alt="Zeeshan6871" /></p>
 
 <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan6871&theme=dark" alt="Zeeshan6871" /></p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
 <a href="https://github.com/Zeeshan6871">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zeeshan6871&theme=react" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zeeshan6871&theme=react" height="180em" />
 </div>
