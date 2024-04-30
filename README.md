@@ -35,11 +35,14 @@
 <h3>Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Zeeshan6871&show_icons=true&locale=en&theme=dark" alt="Zeeshan6871" />
 <img align="right" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Zeeshan6871&theme=dark" alt="Zeeshan6871" />
-<br/>
-<br/>
+<br>
+<br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
 <div align="center">
 <a href="https://github.com/Zeeshan6871">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zeeshan6871&theme=dark" height="180em" />
 </div>
+<br>
+  <br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeeshan6871&theme=dark&bg_color=20232a&hide_border=true" width="100%"/>
