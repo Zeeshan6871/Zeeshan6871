@@ -1,3 +1,6 @@
+
+![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/Zeeshan6871/Zeeshan6871/assets/154689762/c605466c-6176-4ca5-9883-06e423cf0f5b)
+
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmad</h1>
 <h3 align="center">MERN FULL STACK DEVLOPER</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Zeeshan6871&label=Profile%20views&color=0e75b6&style=flat" alt="Zeeshan6871" /> </p>
