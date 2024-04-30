@@ -1,13 +1,17 @@
 
 ![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/Zeeshan6871/Zeeshan6871/assets/154689762/c605466c-6176-4ca5-9883-06e423cf0f5b)
 
-<h1 align="center">Hi 👋, I'm Zeeshan Ahmad</h1>
+<h1 align=center>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;+I'm+Zeeshan+Ahmad...;MERN+Full+stack+Developer;Nice+to+meet+you!&center=true&size=20">
+  </a>
+</h1>
 <h3 align="center">MERN FULL STACK DEVELOPER</h3>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
 
+Harnessing over 1200 hours of expertise, I specialize in crafting fluid, user-centric applications with the MERN stack. Fueled by a passion for innovation, I thrive on perpetual learning and exploration of cutting-edge technologies. Let's connect on  <a href="https://www.linkedin.com/in/http://www.linkedin.com/in/zeeshan-ahmad6393" target="_blank">LinkedIn</a> to dive deeper into my journey and skill set. Your visit is valued, and I'm excited to build a meaningful professional relationship with you!
 - 🌱 I’m currently learning :- Nod.js, Express, MongoDB, React
-
 - 📫 How to reach me **zeeshanahmad@gmail.com**
 - 📄 Resume :-  <a href="https://drive.google.com/file/d/1WTDkMOuAHcjJ8vLG5w966b_koPna9fqM/view?usp=sharing" target="_blank">My Resume</a>
 
