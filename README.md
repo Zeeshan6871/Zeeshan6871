@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmad</h1>
 <h3 align="center">MERN FULL STACK DEVELOPER</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Zeeshan6871&label=Profile%20views&color=0e75b6&style=flat" alt="Zeeshan6871" /> </p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zeeshan6871&theme=" alt="Zeeshan6871" /></a> </p>
 
