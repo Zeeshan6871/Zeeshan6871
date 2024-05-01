@@ -14,6 +14,7 @@ Harnessing over 1200 hours of expertise, I specialize in crafting fluid, user-ce
 - 🌱 I’m currently learning :- Nod.js, Express, MongoDB, React
 - 📫 How to reach me **zeeshanahmad@gmail.com**
 - 📄 Resume :-  <a href="https://drive.google.com/file/d/1WTDkMOuAHcjJ8vLG5w966b_koPna9fqM/view?usp=sharing" target="_blank">My Resume</a>
+- 💼 Portfolio :- <a href="https://zeeshan6871.github.io/portfolio/" target="_blank">Portfolio</a>
 
 <div> <a href="https://www.linkedin.com/in/http://www.linkedin.com/in/zeeshan-ahmad6393" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Zeeshan6871" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
