@@ -13,7 +13,7 @@
 Harnessing over 1200 hours of expertise, I specialize in crafting fluid, user-centric applications with the MERN stack. Fueled by a passion for innovation, I thrive on perpetual learning and exploration of cutting-edge technologies. Let's connect on  <a href="https://www.linkedin.com/in/http://www.linkedin.com/in/zeeshan-ahmad6393" target="_blank">LinkedIn</a> to dive deeper into my journey and skill set. Your visit is valued, and I'm excited to build a meaningful professional relationship with you!
 - 🌱 I’m currently learning :- Nod.js, Express, MongoDB, React
 - 📫 How to reach me **zeeshanahmad6871@gmail.com**
-- 📄 Resume :-  <a href="https://drive.google.com/file/d/1WTDkMOuAHcjJ8vLG5w966b_koPna9fqM/view?usp=sharing" target="_blank">My Resume</a>
+- 📄 Resume :-  <a href="https://drive.google.com/file/d/1hYjAseXQWjYllKYrfIKi9IKjvaV_wgYm/view" target="_blank">My Resume</a>
 - 💼 Portfolio :- <a href="https://zeeshan6871.github.io/portfolio/" target="_blank">Portfolio</a>
 
 <div> <a href="https://www.linkedin.com/in/http://www.linkedin.com/in/zeeshan-ahmad6393" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
